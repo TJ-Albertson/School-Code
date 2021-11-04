@@ -1,0 +1,16 @@
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\bin\Debug\net5.0\GradeConverter.exe
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\bin\Debug\net5.0\GradeConverter.deps.json
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\bin\Debug\net5.0\GradeConverter.runtimeconfig.json
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\bin\Debug\net5.0\GradeConverter.runtimeconfig.dev.json
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\bin\Debug\net5.0\GradeConverter.dll
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\bin\Debug\net5.0\ref\GradeConverter.dll
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\bin\Debug\net5.0\GradeConverter.pdb
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\obj\Debug\net5.0\GradeConverter.csproj.AssemblyReference.cache
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\obj\Debug\net5.0\GradeConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\obj\Debug\net5.0\GradeConverter.AssemblyInfoInputs.cache
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\obj\Debug\net5.0\GradeConverter.AssemblyInfo.cs
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\obj\Debug\net5.0\GradeConverter.csproj.CoreCompileInputs.cache
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\obj\Debug\net5.0\GradeConverter.dll
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\obj\Debug\net5.0\ref\GradeConverter.dll
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\obj\Debug\net5.0\GradeConverter.pdb
+D:\School Code - Fall 2021\INFOTC 2040\Grade Converter\obj\Debug\net5.0\GradeConverter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\bin\Debug\net5.0\Midterm Project.exe
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\bin\Debug\net5.0\Midterm Project.deps.json
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\bin\Debug\net5.0\Midterm Project.runtimeconfig.json
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\bin\Debug\net5.0\Midterm Project.runtimeconfig.dev.json
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\bin\Debug\net5.0\Midterm Project.dll
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\bin\Debug\net5.0\ref\Midterm Project.dll
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\bin\Debug\net5.0\Midterm Project.pdb
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\obj\Debug\net5.0\Midterm Project.csproj.AssemblyReference.cache
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\obj\Debug\net5.0\Midterm Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\obj\Debug\net5.0\Midterm Project.AssemblyInfoInputs.cache
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\obj\Debug\net5.0\Midterm Project.AssemblyInfo.cs
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\obj\Debug\net5.0\Midterm Project.csproj.CoreCompileInputs.cache
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\obj\Debug\net5.0\Midterm Project.dll
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\obj\Debug\net5.0\ref\Midterm Project.dll
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\obj\Debug\net5.0\Midterm Project.pdb
+D:\School Code - Fall 2021\INFOTC 2040\Midterm Project\obj\Debug\net5.0\Midterm Project.genruntimeconfig.cache

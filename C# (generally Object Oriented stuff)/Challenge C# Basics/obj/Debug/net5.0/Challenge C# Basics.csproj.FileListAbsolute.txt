@@ -1,0 +1,16 @@
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\bin\Debug\net5.0\Challenge C# Basics.exe
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\bin\Debug\net5.0\Challenge C# Basics.deps.json
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\bin\Debug\net5.0\Challenge C# Basics.runtimeconfig.json
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\bin\Debug\net5.0\Challenge C# Basics.runtimeconfig.dev.json
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\bin\Debug\net5.0\Challenge C# Basics.dll
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\bin\Debug\net5.0\ref\Challenge C# Basics.dll
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\bin\Debug\net5.0\Challenge C# Basics.pdb
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\obj\Debug\net5.0\Challenge C# Basics.csproj.AssemblyReference.cache
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\obj\Debug\net5.0\Challenge C# Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\obj\Debug\net5.0\Challenge C# Basics.AssemblyInfoInputs.cache
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\obj\Debug\net5.0\Challenge C# Basics.AssemblyInfo.cs
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\obj\Debug\net5.0\Challenge C# Basics.csproj.CoreCompileInputs.cache
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\obj\Debug\net5.0\Challenge C# Basics.dll
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\obj\Debug\net5.0\ref\Challenge C# Basics.dll
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\obj\Debug\net5.0\Challenge C# Basics.pdb
+D:\School Code - Fall 2021\INFOTC 2040\Challenge C# Basics\obj\Debug\net5.0\Challenge C# Basics.genruntimeconfig.cache
